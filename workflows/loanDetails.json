@@ -1,0 +1,5 @@
+{
+  "name": "loanDetails",
+  "inputs": ["loanAccountId"],
+  "outputs": ["tenure", "interest_rate", "principal_pending", "interest_pending", "nominee"]
+}

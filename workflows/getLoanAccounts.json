@@ -1,0 +1,5 @@
+{
+  "name": "getLoanAccounts",
+  "middleware_projection": ["loanAccountId", "loanType", "tenure"],
+  "description": "Returns projected loan list for DRM"
+}

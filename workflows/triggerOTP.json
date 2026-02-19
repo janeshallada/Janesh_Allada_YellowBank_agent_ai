@@ -1,0 +1,6 @@
+{
+  "name": "triggerOTP",
+  "inputs": ["phone_number", "dob"],
+  "outputs": ["otp"],
+  "description": "Returns one of: 1234, 5678, 7889, 1209"
+}
